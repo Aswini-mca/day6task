@@ -1,3 +1,5 @@
+//3.Write a “person” class to hold all the details.
+
 class person{
     constructor(n,d,deg,c) {
 this.name=n;
